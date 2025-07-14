@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+selenium
+astral
+flatlib
+python-dotenv
+webdriver-manager
